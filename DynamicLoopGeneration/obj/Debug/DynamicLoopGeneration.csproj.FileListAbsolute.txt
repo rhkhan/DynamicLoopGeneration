@@ -1,0 +1,6 @@
+E:\Rubel_Necessaries\learning\DynamicLoopGeneration\DynamicLoopGeneration\bin\Debug\DynamicLoopGeneration.exe.config
+E:\Rubel_Necessaries\learning\DynamicLoopGeneration\DynamicLoopGeneration\bin\Debug\DynamicLoopGeneration.exe
+E:\Rubel_Necessaries\learning\DynamicLoopGeneration\DynamicLoopGeneration\bin\Debug\DynamicLoopGeneration.pdb
+E:\Rubel_Necessaries\learning\DynamicLoopGeneration\DynamicLoopGeneration\obj\Debug\DynamicLoopGeneration.csprojResolveAssemblyReference.cache
+E:\Rubel_Necessaries\learning\DynamicLoopGeneration\DynamicLoopGeneration\obj\Debug\DynamicLoopGeneration.exe
+E:\Rubel_Necessaries\learning\DynamicLoopGeneration\DynamicLoopGeneration\obj\Debug\DynamicLoopGeneration.pdb
